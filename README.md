@@ -42,3 +42,10 @@ public class Highpeak {
         System.out.println("And the difference between the chosen goodies with highest price and the lowest price is:"+result);
     }
 }
+
+
+https://user-images.githubusercontent.com/66130770/122641642-487b4c80-d124-11eb-8e24-e8b2ffee04df.mp4
+
+
+
+
